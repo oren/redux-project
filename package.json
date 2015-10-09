@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oren/redux-project/issues"
   },
-  "homepage": "https://github.com/oren/redux-project#readme"
+  "homepage": "https://github.com/oren/redux-project#readme",
+  "dependencies": {
+    "babel": "^5.8.23"
+  }
 }
