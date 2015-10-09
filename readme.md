@@ -2,5 +2,5 @@
 
 ```
 npm install
-node index.js
+node_modules/.bin/babel index.js
 ```
